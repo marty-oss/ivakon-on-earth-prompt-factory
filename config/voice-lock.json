@@ -1,20 +1,21 @@
 {
   "episode_id": "EP001",
-  "approved_from": "TBD — lock after first approved Imagine clip (anchor MS02)",
-  "voice_direction": "Deep, calm, slightly gravelly podcast-host baritone; dryly amused, clear and natural",
-  "delivery": "Natural podcast host. Same speaker, same mic tone, same pacing family on every clip.",
+  "approved_from": "User voice spec — Swedish hyper tech-host cadence; Ivan on Tech style family (lock anchor MS02)",
+  "voice_direction": "Adult male Swedish-accented tech podcast host; hyper, fast-paced, high-energy delivery with upbeat enthusiasm — distinctive Nordic accent, never monotone",
+  "delivery": "Hyper but controlled tech host. Same speaker, same Swedish accent, same fast energetic pacing family on every clip.",
   "continuity_instruction": "Use the exact same voice as every other Ivakon mini-scene. Do not change pitch, accent, age, or vocal character.",
   "speech_start_sec": "0.2 to 0.5",
   "voice_anchor_mini_scene": "MS02",
   "voice_anchor_instruction": "Match the vocal identity of EP001-MS02 — same speaker, pitch, mic proximity, and pacing family on every clip.",
   "mic_proximity": "Close broadcast microphone, consistent proximity and room tone across all clips.",
-  "vocal_energy_rule": "Change facial emphasis and delivery rhythm only — do not change pitch, timbre, accent, age, or mic tone.",
+  "vocal_energy_rule": "Change facial emphasis and line emphasis only — do not change Swedish accent, hyper cadence, timbre, age, or mic tone.",
   "voice_negatives": [
     "no narrator voice-over",
     "no cartoon or caricature voice",
     "no whisper or shout",
     "no accent shift",
-    "no younger or higher-pitched voice",
+    "no slow monotone drawl",
+    "no calm sleepy delivery",
     "no different speaker",
     "no dramatic vocal character change"
   ]

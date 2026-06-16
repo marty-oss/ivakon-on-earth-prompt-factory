@@ -11,13 +11,15 @@ Use across every clip. **Voice timbre is locked in** [config/voice-lock.json](co
 - **Set:** *Beyond the Signal* podcast studio — dark brick wall, blue neon circular logo sign, wooden shelves, red **ON AIR** light, warm table lamp
 - **Expression guardrails:** Friendly, confident, engaging — never evil, angry, demonic, scary, or aggressive
 
-## Approved voice (placeholder lock)
+## Approved voice (locked)
 
-**Deep, calm, slightly gravelly podcast-host baritone; dryly amused, clear and natural.**
+**Adult male Swedish-accented tech podcast host; hyper, fast-paced, high-energy delivery with upbeat enthusiasm — distinctive Nordic accent, never monotone.**
 
-Same speaker, same mic tone, same pacing family on every mini-scene. Update `config/voice-lock.json` after first approved Imagine clip (anchor MS02).
+Vocal reference: Ivan on Tech — Swedish accent, hyper enthusiastic tech-host energy. Ivakon matches that **style family**, not a literal impersonation.
 
-Per-scene `voice_notes` in scene-map are **delivery emphasis only** — never change timbre.
+Same speaker, same Swedish accent, same fast hyper pacing on every mini-scene. Calibrate on **MS02**; re-take MS02 if timbre or accent drifts.
+
+Per-scene `voice_notes` in scene-map are **delivery emphasis only** — never change accent, energy level, or timbre.
 
 ## Motion style (dynamic but controlled)
 
